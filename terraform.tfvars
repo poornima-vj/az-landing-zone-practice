@@ -8,4 +8,9 @@ rgs = {
         name = "rg2-gmky"
         loaction = "east us"
     }
+
+    rg3 = {
+        name = "rg3-newrg"
+        location = "central us"
+    }
 }
